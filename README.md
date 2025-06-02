@@ -10,7 +10,7 @@
 
 📫 How to reach me : Email: kilarignanateja189@gmail.com
 
-🌐 personal portfolio : Link
+🌐 personal portfolio : https://Gnana-Teja.github.io/portfolio/
 
 👤 LinkedIn Profile : www.linkedin.com/in/gnana-teja-172b0a259
 
