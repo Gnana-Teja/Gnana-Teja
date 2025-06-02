@@ -1,9 +1,3 @@
-## Hi there 👋
-
-**Gnana-Teja/Gnana-Teja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi, I’m Gnana_Teja_K
 
 👀 I’m interested in Artificial Intelligence and Machine Learning and Full Stack Development
