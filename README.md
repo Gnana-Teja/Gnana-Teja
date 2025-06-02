@@ -10,8 +10,6 @@
 
 📫 How to reach me : Email: kilarignanateja189@gmail.com
 
-🌐 personal portfolio : https://Gnana-Teja.github.io/portfolio/
-
 👤 LinkedIn Profile : www.linkedin.com/in/gnana-teja-172b0a259
 
 🎯 LeetCode Profile : https://leetcode.com/u/gnanateja_k/
