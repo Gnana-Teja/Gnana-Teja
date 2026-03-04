@@ -1,8 +1,6 @@
 👋 Hi, I’m Gnana_Teja_K
 
-👀 I’m interested in Artificial Intelligence and Machine Learning and Full Stack Development
-
-🌱 I’m currently learning MERN full stack development
+👀 Exploring AI, Machine Learning & Deep Learning
 
 🌱 I’m final-year student pursuing B.tech (AIML) in Mohan Babu University.
 
